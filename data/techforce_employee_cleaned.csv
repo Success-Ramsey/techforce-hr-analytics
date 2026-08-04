@@ -1,0 +1,58 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,department,job_title,salary,gender,city,row_id
+1,Chinedu,Okafor,chinedu.okafor@techforce.com,08031112222,2018-03-01,Engineering,"IT Manager",1150000,M,"Port Harcourt",1
+2,Ifeoma,Adeyemi,ifeoma.adeyemi@techforce.com,08032223333,2019-06-15,Engineering,"Senior Software Engineer",950000,F,"Port Harcourt",2
+3,Tunde,Bakare,tunde.bakare@techforce.com,08033334444,2020-01-10,Engineering,"Software Engineer",620000,M,"Port Harcourt",3
+4,Amaka,Eze,amaka.eze@techforce.com,08034445555,2021-09-20,Engineering,"Software Engineer",580000,F,"Port Harcourt",4
+5,Segun,Olawale,segun.olawale@techforce.com,08035556666,2022-02-14,Engineering,"Data Analyst",470000,M,"Port Harcourt",5
+6,Blessing,Nwosu,blessing.nwosu@techforce.com,08036667777,2017-11-05,Sales,"Sales Manager",870000,F,Lagos,6
+7,Kelechi,Obi,kelechi.obi@techforce.com,08037778888,2019-04-18,Sales,"Sales Representative",410000,M,Lagos,7
+8,Fatima,Suleiman,fatima.suleiman@techforce.com,08038889999,2020-07-22,Sales,"Sales Representative",410000,F,Lagos,8
+9,Emeka,Chukwu,emeka.chukwu@techforce.com,08039990000,2021-03-30,Sales,"Sales Representative",410000,M,Lagos,9
+10,Grace,Udo,grace.udo@techforce.com,08030001111,2018-08-09,Marketing,"Marketing Specialist",450000,F,Lagos,10
+11,Daniel,Igwe,daniel.igwe@techforce.com,08031234567,2020-12-01,Marketing,"Marketing Specialist",400000,M,Lagos,11
+12,Patricia,Nnamdi,patricia.nnamdi@techforce.com,08032345678,2016-05-17,HR,"HR Manager",800000,F,Abuja,12
+13,Yusuf,Mohammed,yusuf.mohammed@techforce.com,08033456789,2019-10-11,HR,"HR Officer",380000,M,Abuja,13
+14,Chiamaka,Eze,chiamaka.eze@techforce.com,08034567890,2022-06-06,HR,"HR Officer",360000,F,Abuja,14
+15,Olumide,Fashola,olumide.fashola@techforce.com,08035678901,2017-02-25,Finance,"Finance Manager",950000,M,Abuja,15
+16,Ngozi,Onuoha,ngozi.onuoha@techforce.com,08036789012,2018-09-13,Finance,Accountant,510000,F,Abuja,16
+17,Ahmed,Bello,ahmed.bello@techforce.com,08037890123,2021-01-19,Finance,Accountant,470000,M,Abuja,17
+18,Victoria,Akpan,victoria.akpan@techforce.com,08038901234,2020-04-04,"Customer Support","Support Agent",280000,F,"Port Harcourt",18
+19,Samuel,Etim,samuel.etim@techforce.com,08039012345,2021-07-15,"Customer Support","Support Agent",280000,M,"Port Harcourt",19
+20,Joy,Ibrahim,joy.ibrahim@techforce.com,08030123456,2023-01-09,"Customer Support","Support Agent",280000,F,"Port Harcourt",20
+21,Adaora,Nkem,adaora.nkem@techforce.com,+2348045678901,2020-05-12,Engineering,"Software Engineer",540000,F,"Port Harcourt",21
+22,Biodun,Adebayo,biodun.adebayo@techforce.com,08046789012,2019-08-23,Sales,"Sales Representative",410000,M,Lagos,22
+23,Chioma,Okonkwo,chioma.okonkwo@techforce.com,08047890123,2018-03-15,Marketing,"Marketing Specialist",420000,F,Lagos,23
+24,Musa,Aliyu,musa.aliyu@techforce.com,08048901234,2020-11-10,Finance,Accountant,480000,M,Abuja,24
+25,Ifunanya,Okoro,ifunanya.okoro@techforce.com,08049012345,2021-04-20,"Customer Support","Support Agent",280000,F,"Port Harcourt",25
+26,Bassey,Effiong,bassey.effiong@techforce.com,"0803 456 7890",2019-07-14,Engineering,"Software Engineer",590000,M,"Port Harcourt",26
+27,Kemi,Adeyinka,kemi.adeyinka@techforce.com,08031112223,2022-09-01,Marketing,"Marketing Specialist",390000,F,Lagos,27
+28,Rotimi,Olatunji,rotimi.olatunji@techforce.com,08042345678,2018-06-30,Sales,"Sales Manager",860000,M,Lagos,28
+29,Halima,Musa,halima.musa@techforce.com,08043456789,2020-03-18,HR,"HR Officer",370000,F,Abuja,29
+30,Uche,Nwofor,uche.nwofor@techforce.com,08044567890,2017-09-22,Finance,"Finance Manager",950000,M,Abuja,30
+31,Sade,Ogundimu,sade.ogundimu@techforce.com,08045678901,2021-12-05,Engineering,"Data Analyst",460000,F,"Port Harcourt",31
+32,Taiwo,Oladele,taiwo.oladele@techforce.com,08046789013,2022-09-15,"Customer Support","Support Agent",280000,M,"Port Harcourt",32
+33,Oluwaseun,Adeleke,oluwaseun.adeleke@techforce.com,08047890124,2019-05-20,Engineering,"Senior Software Engineer",980000,M,"Port Harcourt",33
+34,Adaobi,Peters,adaobi.peters@techforce.com,08048901235,2020-08-15,Sales,"Sales Representative",410000,F,Lagos,34
+35,Kunle,Adesanya,kunle.adesanya@techforce.com,08049012346,2018-04-12,Marketing,"Marketing Specialist",440000,M,Lagos,35
+36,Ebuka,Obi,ebuka.obi@techforce.com,08050123456,2022-03-10,Engineering,"Software Engineer",560000,M,"Port Harcourt",36
+37,Nkechi,Umeh,nkechi.umeh@techforce.com,08051234567,2021-10-18,HR,"HR Officer",365000,F,Abuja,37
+38,Chukwuemeka,Eze,chukwuemeka.eze@techforce.com,08052345678,2019-02-28,Sales,"Sales Manager",880000,M,Lagos,38
+39,Aisha,Garba,aisha.garba@techforce.com,08053456789,2020-09-11,"Customer Support","Support Agent",280000,F,Kano,39
+40,Tochukwu,Okafor,tochukwu.okafor@techforce.com,08054567890,2017-07-04,Finance,"Finance Manager",950000,M,Abuja,40
+41,Adunola,Ogunleye,adunola.ogunleye@techforce.com,08055678901,2021-06-22,Engineering,"Data Analyst",455000,F,Lagos,41
+42,Seun,Alade,seun.alade@techforce.com,08056789012,2018-11-23,Marketing,"Marketing Specialist",430000,M,Lagos,42
+43,Preye,Fubara,preye.fubara@techforce.com,08057890123,2020-02-14,"Customer Support","Support Agent",280000,F,"Port Harcourt",43
+44,Idris,Balogun,idris.balogun@techforce.com,08058901234,2019-11-30,Engineering,"Software Engineer",600000,M,Kano,44
+45,Bola,Adeyemi,bola.adeyemi@techforce.com,08059012345,2022-08-01,Sales,"Sales Representative",410000,M,Lagos,45
+46,Adaeze,Okonkwo,adaeze.okonkwo@techforce.com,"0806 012 3456",2021-03-17,HR,"HR Officer",375000,F,Abuja,46
+47,Chidi,Aneke,chidi.aneke@techforce.com,08061234567,2018-12-20,Finance,Accountant,495000,M,Abuja,47
+48,Amara,Eze,amara.eze@techforce.com,08062345678,2020-07-08,Engineering,"Software Engineer",570000,F,"Port Harcourt",48
+49,Femi,Kuti,femi.kuti@techforce.com,08063456789,2022-11-14,Marketing,"Marketing Specialist",410000,M,Lagos,49
+50,Zainab,Musa,zainab.musa@techforce.com,08064567890,2019-09-05,"Customer Support","Support Agent",280000,F,Abuja,50
+51,Ogo,Nwosu,ogo.nwosu@techforce.com,08065678901,2021-08-23,Engineering,"Software Engineer",545000,F,"Port Harcourt",51
+52,Dele,Omotoso,dele.omotoso@techforce.com,08066789012,2020-04-16,sales,"Sales Representative",410000,M,Lagos,52
+53,Abby,Ikenna,abby.ikenna@techforce.com,08067890123,2018-10-29,Marketing,"Marketing Specialist",450000,F,Lagos,53
+54,Ogundipe,Ogundipe,ogundipe@techforce.com,08068901234,2022-05-01,Finance,Accountant,500000,M,Abuja,54
+55,Chika,Nwosu,chika.nwosu@techforce,08069012345,2021-01-15,Engineering,"Data Analyst",440000,F,"Port Harcourt",55
+56,Tony,Eze,tony.eze@techforce.com,08070123456,2019-03-22,HR,"HR Manager",820000,M,Abuja,56
+57,Lanre,Badmus,lanre.badmus@techforce.com,08071234567,2020-06-18,HR,"HR Officer",370000,M,Lagos,57
