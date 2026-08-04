@@ -15,9 +15,7 @@ This mirrors how HR analytics work is typically done in practice: clean first, u
 
 ## Dashboard Preview
 
-```
 ![Dashboard Screenshot](dashboard_screenshot/techforce_dashboard.png)
-```
 
 ## Key Findings
 
